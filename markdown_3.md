@@ -1,5 +1,6 @@
 # Hello!
 *git add .*
+**git merge added_info**
 
 **git commit -m "added test.md"**
 
@@ -10,7 +11,7 @@ git commit -am "added test"
 git commit -a -m "added test"
 
 
-# Information on creat branch      *Информация о создании ветки*
+# Information on creat branch      **Информация о создании ветки**
 
 Creat new branch:  
 Чтобы создать новую ветку
