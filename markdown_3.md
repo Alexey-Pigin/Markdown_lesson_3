@@ -44,3 +44,5 @@ https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0a
 радуемся погоде пока не выпал снег!
 Снег это холодно!
 Снег это много одежды!
+
+Deleted branch  star,stop,pause
