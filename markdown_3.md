@@ -45,3 +45,8 @@ https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0a
 на пульте и 
 радуйтесь началу приложению
 Сохранил старт а стоп отменил
+git log --graph
+"q" на англ. раскладке
+git commit --amend решить проблему с текстом
+
+для паузы нажмите на пульте кнопку паузы
