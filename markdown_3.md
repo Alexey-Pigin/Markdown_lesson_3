@@ -41,3 +41,8 @@ https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0a
 зеленое актуальный  синий из другой
 если нету текста то удаляем вручную стрелки конфликта
 
+git log --graph
+"q" на англ. раскладке
+git commit --amend решить проблему с текстом
+
+для паузы нажмите на пульте кнопку паузы
