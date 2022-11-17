@@ -45,4 +45,4 @@ https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0a
 Снег это холодно!
 Снег это много одежды!
 
-Deleted branch  star,stop,pause
+Deleted branch  star,stop,pauseuuuuuuuuuuuuuu
